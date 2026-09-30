@@ -6,21 +6,18 @@ It checks your account periodically, saves what it finds, and compares it with t
 
 ## Setup
 
-Clone or download by clicking [here](https://github.com/getawife/instagram-bot/releases)
+Please follow the instructions given below.
+
+### Download
+
+If you don't want to build the project yourself, download the latest release from the [Releases page](https://github.com/getawife/instagram-bot/releases)
+
+### From source
 
 ```bash
 git clone https://github.com/getawife/instagram-bot
-```
-
-Install dependencies:
-
-```bash
+cd instagram-bot
 pnpm install
-```
-
-Start the tracker:
-
-```bash
 pnpm start
 ```
 
@@ -46,7 +43,7 @@ Include the following in your report:
 - Your operating system and version.
 - A clear description of what you expected and what actually happened.
 - Reproduction steps if you can determine them.
-- Any error message shown in the app.
+- Any error message shown.
 
 ### Pull Requests
 
@@ -71,3 +68,11 @@ Instagram's website is dynamic and may change its DOM, navigation, or loading be
 Use the tool only with accounts and data you are authorized to access, and comply with Instagram's applicable terms and policies.
 
 Not affiliated with Instagram.
+
+```
+▐▒▒▒▒▒  ▐▒▒ ▐▒▒      ▐▒▒▒▒▒▒ ▐▒▒▒▒▒▒ ▐▒▒▒▒▒ ▐▒▒▒▒▒  ▐▒      ▐▒▒ ▐▒▒▒▒▒▒ ▐▒▒▒▒▒▒ ▐▒▒▒▒▒▒
+▐▒  ▐▒▒ ▐▒▒ ▐▒▒      ▐▒      ▐▒        ▐▒   ▐▒  ▐▒▒ ▐▒      ▐▒▒   ▐▒    ▐▒      ▐▒
+▐▒▐▒▒▒    ▐▒▒▒▒      ▐▒▒▐▒▒▒ ▐▒▒▒      ▐▒▒  ▐▒▒▒▒▒▒ ▐▒▒ ▐▒  ▐▒▒   ▐▒▒   ▐▒▒▒    ▐▒▒▒
+▐▒  ▐▒▒     ▐▒▒      ▐▒▒ ▐▒▒ ▐▒▒       ▐▒▒  ▐▒▒ ▐▒▒ ▐▒▒ ▐▒  ▐▒▒   ▐▒▒   ▐▒▒     ▐▒▒
+▐▒▒▒▒▒  ▐▒▒▒▒▒       ▐▒▒▒▒▒▒ ▐▒▒▒▒▒▒   ▐▒▒  ▐▒▒ ▐▒▒ ▐▒▒▒▒▒▒▒▒▒▒ ▐▒▒▒▒▒▒ ▐▒▒     ▐▒▒▒▒▒▒
+```
