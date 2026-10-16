@@ -1,3 +1,5 @@
+**Hello, this project is currently on hold while I sort out a few things.**
+
 # Instagram-bot
 
 A small Puppeteer project for keeping track of your Instagram followers and following list.
